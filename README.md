@@ -52,4 +52,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
