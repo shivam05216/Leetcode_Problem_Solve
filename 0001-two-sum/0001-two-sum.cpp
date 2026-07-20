@@ -6,7 +6,8 @@ public:
             int complement = target - nums[i];
             if (hash.find(complement) != hash.end()) {
                 return {hash[complement], i};
-            }
+                
+            } 
             hash[nums[i]] = i;
         }
         // Return an empty vector if no solution is found
