@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
