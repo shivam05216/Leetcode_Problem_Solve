@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0009-palindrome-number) |
 ## String
 |  |
