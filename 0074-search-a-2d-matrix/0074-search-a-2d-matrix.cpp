@@ -29,7 +29,7 @@ public:
             int midrow= srow + (erow-srow)/2;
 
             if (target>= matrix[midrow][0] && target <= matrix[midrow][n-1]){
-                // means the target is in this row so, apply binary search in this tree
+                // means the target is in this row so, apply binary search in this row
                 return searchinrow(matrix, target, midrow);
 
             }
