@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
@@ -60,10 +61,15 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
