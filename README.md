@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
