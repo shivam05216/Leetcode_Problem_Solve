@@ -46,6 +46,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
