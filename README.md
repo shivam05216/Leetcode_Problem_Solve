@@ -54,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
 | ------- |
