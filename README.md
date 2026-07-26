@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -52,6 +53,7 @@
 | [0007-reverse-integer](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
