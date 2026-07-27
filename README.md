@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -72,6 +73,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -118,4 +120,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
