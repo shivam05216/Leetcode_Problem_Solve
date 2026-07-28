@@ -68,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -149,4 +151,5 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
