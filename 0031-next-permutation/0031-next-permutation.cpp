@@ -21,13 +21,7 @@ public:
                 break;
             }
         }
-
-      int i =pivot+1, j=n-1;
-      while(i<j){
-        swap(nums[i], nums[j]);
-        i++;
-        j--;
-      }
+        reverse(nums.begin()+ pivot+1 , nums.end());
        
     }
 };
