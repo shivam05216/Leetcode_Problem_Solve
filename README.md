@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0066-plus-one) |
@@ -39,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
