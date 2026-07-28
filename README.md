@@ -20,6 +20,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1672-richest-customer-wealth) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -125,5 +128,22 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
