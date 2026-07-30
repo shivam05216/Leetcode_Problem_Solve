@@ -63,6 +63,7 @@
 | [0050-powx-n](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -72,6 +73,7 @@
 | [0125-valid-palindrome](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -79,6 +81,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
