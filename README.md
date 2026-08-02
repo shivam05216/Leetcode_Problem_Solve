@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
@@ -64,6 +65,7 @@
 | [0009-palindrome-number](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -139,11 +141,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
@@ -176,5 +180,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
