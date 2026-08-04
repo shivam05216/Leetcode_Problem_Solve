@@ -30,6 +30,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
