@@ -1,24 +1,13 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        sort(nums.begin(),nums.end());
         vector<int> ans;
-        int n = nums.size();
-
-        int start = nums[0];
-        int end = nums[n-1];
-
-        unordered_map<int, int> mpp;
-        for(int i = 0; i<n; i++){
-            mpp[nums[i]];
-        }
-
-        for(int i = start; i<=end; i++){
-            if(mpp.find(i) == mpp.end()){
-                ans.push_back(i);
+        for(int i=1;i<nums.size();i++){
+            for(int j=nums[i-1]+1;j<nums[i];j++){
+                ans.push_back(j);
             }
         }
-
         return ans;
     }
 };
