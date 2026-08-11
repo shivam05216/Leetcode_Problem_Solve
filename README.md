@@ -31,6 +31,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3731-find-missing-elements) |
@@ -111,6 +113,7 @@
 | [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3536-maximum-product-of-two-digits) |
