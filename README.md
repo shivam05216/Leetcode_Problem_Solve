@@ -31,6 +31,7 @@
 | [1406-stone-game-iii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1672-richest-customer-wealth) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -94,6 +95,7 @@
 | [0125-valid-palindrome](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -261,4 +263,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
