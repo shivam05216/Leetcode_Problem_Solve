@@ -80,6 +80,7 @@
 | [0066-plus-one](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1406-stone-game-iii) |
@@ -279,4 +280,8 @@
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
