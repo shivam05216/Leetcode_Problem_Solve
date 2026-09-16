@@ -86,6 +86,7 @@
 | [1140-stone-game-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -171,6 +172,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [1140-stone-game-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
@@ -215,6 +218,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
