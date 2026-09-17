@@ -30,6 +30,7 @@
 | [1140-stone-game-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1672-richest-customer-wealth) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -43,6 +44,7 @@
 | [0001-two-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -72,6 +74,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0240-search-a-2d-matrix-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -187,6 +191,7 @@
 | [0877-stone-game](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
