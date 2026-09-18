@@ -45,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -103,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -117,6 +119,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -130,6 +133,7 @@
 | [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3517-smallest-palindromic-rearrangement-i) |
