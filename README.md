@@ -46,6 +46,7 @@
 | [0001-two-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -110,6 +111,7 @@
 | [0125-valid-palindrome](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -139,6 +141,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -266,6 +269,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -278,6 +282,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -313,4 +318,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shivam05216/Leetcode_Problem_Solve/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
